@@ -22,15 +22,15 @@
   left:0px;
   top:0px;
   width:1280px;
-  height:866px;
+  height:922px;
 }
 #u5375 {
   border-width:0px;
   position:absolute;
   left:0px;
-  top:0px;
+  top:891px;
   width:1280px;
-  height:866px;
+  height:922px;
   display:flex;
 }
 #u5375 .text {
@@ -46,7 +46,37 @@
   text-transform:none;
   visibility:hidden;
 }
-#u5376_div {
+#u5376_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1280px;
+  height:866px;
+}
+#u5376 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1280px;
+  height:866px;
+  display:flex;
+}
+#u5376 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u5376_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u5377_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -61,7 +91,7 @@
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
 }
-#u5376 {
+#u5377 {
   border-width:0px;
   position:absolute;
   left:945px;
@@ -70,39 +100,10 @@
   height:209px;
   display:flex;
 }
-#u5376 .text {
+#u5377 .text {
   position:absolute;
   align-self:flex-start;
   padding:10px 10px 10px 10px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u5376_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-}
-#u5377_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:1249px;
-  height:848px;
-}
-#u5377 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:871px;
-  width:1249px;
-  height:848px;
-  display:flex;
-}
-#u5377 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
@@ -110,7 +111,6 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
-  visibility:hidden;
 }
 #u5378_div {
   border-width:0px;
@@ -130,8 +130,8 @@
 #u5378 {
   border-width:0px;
   position:absolute;
-  left:383px;
-  top:1014px;
+  left:399px;
+  top:1094px;
   width:483px;
   height:70px;
   display:flex;
